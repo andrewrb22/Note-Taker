@@ -1,22 +1,21 @@
 # Note-Taker
+ This is an application that can be used to write, save, and delete notes. This application uses an express backend and saves and retrieves note data from a JSON file.
 
- # This is an application that can be used to write, save, and delete notes. This application uses an express backend and saves and retrieves note data from a JSON file.
-
-![](images\notes1.png)
-![](images\notes.png)
+![](https://github.com/andrewrb22/Note-Taker/blob/main/images/notes1.png)
+![](https://github.com/andrewrb22/Note-Taker/blob/main/images/notes.png)
 
 
 # Technologies used on this Projects
 
-# JavaScript
-# HTML
-# CSS
-# Node.js
-# Express.js
+### JavaScript
+### HTML
+### CSS
+### Node.js
+### Express.js
 
 # Credits
 
-# Andrew Rodriguez : https://github.com/andrewrb22
+ Andrew Rodriguez : https://github.com/andrewrb22
 
 
 # License
@@ -28,11 +27,9 @@
 
 # How Does It Work 
 
-# Application allows users to create and save notes.
-
-# Application allows users to view previously saved notes.
-
-# Application allows users to delete previously saved notes.
+### Application allows users to create and save notes.
+### Application allows users to view previously saved notes.
+### Application allows users to delete previously saved notes.
 
 
 
